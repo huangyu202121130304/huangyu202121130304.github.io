@@ -109,7 +109,7 @@ div#personal div.personal_photo {
     height: 200px;
     width: 150px;
     margin: 50px;
-    background-image: url(/photo/个人照.jpg);
+    background-image: url(../photo/个人照.jpg);
     background-size: cover;
 }
 
@@ -144,7 +144,7 @@ div#hobby div.hobby_1 {
     margin: 47.5px 47.5px 22.5px 47.5px;
     height: 200px;
     width: 270px;
-    background-image: url(/photo/篮球.jpg);
+    background-image: url(../photo/篮球.jpg);
     background-size: cover;
 }
 
@@ -153,7 +153,7 @@ div#hobby div.hobby_2 {
     margin: 47.5px 47.5px 22.5px 0;
     height: 200px;
     width: 270px;
-    background-image: url(/photo/旅游.jpg);
+    background-image: url(../photo/旅游.jpg);
     background-size: cover;
 }
 
@@ -162,7 +162,7 @@ div#hobby div.hobby_3 {
     margin: 47.5px 47.5px 22.5px 0;
     height: 200px;
     width: 270px;
-    background-image: url(/photo/品酒.jpg);
+    background-image: url(../photo/品酒.jpg);
     background-size: cover;
 }
 
@@ -227,7 +227,7 @@ div.monitor div.mon_photo {
     float: left;
     width: 300px;
     height: 200px;
-    background-image: url(/photo/班级.jpg);
+    background-image: url(../photo/班级.jpg);
     background-size: cover;
 }
 
@@ -270,7 +270,7 @@ div.luyin div.luyin_photo {
     float: left;
     width: 300px;
     height: 200px;
-    background-image: url(/photo/露营.jpg);
+    background-image: url(../photo/露营.jpg);
     background-size: cover;
 }
 
@@ -313,7 +313,7 @@ div.team div.team_photo {
     float: left;
     width: 300px;
     height: 200px;
-    background-image: url(/photo/球队团建.jpg);
+    background-image: url(../photo/球队团建.jpg);
     background-size: cover;
 }
 
