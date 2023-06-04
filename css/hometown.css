@@ -94,7 +94,7 @@ div#hoto div.hoto_pho {
     width: 610px;
     height: 340px;
     margin: 30px 30px 30px 30px;
-    background-image: url(/photo/家乡.jpg);
+    background-image: url(../photo/家乡.jpg);
     background-size: cover;
 }
 
@@ -128,7 +128,7 @@ div#beauty div.beauty_1 {
     margin: 47.5px 47.5px 22.5px 47.5px;
     height: 200px;
     width: 270px;
-    background-image: url(/photo/瀑布.jpg);
+    background-image: url(../photo/瀑布.jpg);
     background-size: cover;
 }
 
@@ -137,7 +137,7 @@ div#beauty div.beauty_2 {
     margin: 47.5px 47.5px 22.5px 0;
     height: 200px;
     width: 270px;
-    background-image: url(/photo/进贤门.jpg);
+    background-image: url(../photo/进贤门.jpg);
     background-size: cover;
 }
 
@@ -146,7 +146,7 @@ div#beauty div.beauty_3 {
     margin: 47.5px 47.5px 22.5px 0;
     height: 200px;
     width: 270px;
-    background-image: url(/photo/揭阳学宫.jpg);
+    background-image: url(../photo/揭阳学宫.jpg);
     background-size: cover;
 }
 
@@ -193,7 +193,7 @@ div#eat div.eat_1 {
     margin: 47.5px 47.5px 22.5px 47.5px;
     height: 200px;
     width: 270px;
-    background-image: url(/photo/隆江猪脚饭.jpg);
+    background-image: url(../photo/隆江猪脚饭.jpg);
     background-size: cover;
 }
 
@@ -202,7 +202,7 @@ div#eat div.eat_2 {
     margin: 47.5px 47.5px 22.5px 0;
     height: 200px;
     width: 270px;
-    background-image: url(/photo/普宁豆干.jpg);
+    background-image: url(../photo/普宁豆干.jpg);
     background-size: cover;
 }
 
@@ -211,7 +211,7 @@ div#eat div.eat_3 {
     margin: 47.5px 47.5px 22.5px 0;
     height: 200px;
     width: 270px;
-    background-image: url(/photo/普宁肠粉.jpg);
+    background-image: url(../photo/普宁肠粉.jpg);
     background-size: cover;
 }
 
