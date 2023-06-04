@@ -104,7 +104,7 @@ th {
 }
 
 td.per_pho {
-    background-image: url(/photo/大头照.jpg);
+    background-image: url(../photo/大头照.jpg);
     background-size: cover;
 }
 
